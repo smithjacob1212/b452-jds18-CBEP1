@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a2d9c6a693760443a7796d5b64f8303, type: 3}
+  m_Name: ProjectileSpawnerSettings
+  m_EditorClassIdentifier: 
+  initialSpawnDelay: 0
+  secondsBetweenSpawns: 3
+  spawnQueueSize: 4
+  spawnVelocity: 5
+  projectiles:
+  - shuffleBagSize: 1
+    projectileSettings: {fileID: 11400000, guid: 276b4eecb1cda384ea1edfe675119eb4, type: 2}
+  - shuffleBagSize: 1
+    projectileSettings: {fileID: 11400000, guid: 3d154e1cb606b4b4895fb102064c2f19, type: 2}
+  - shuffleBagSize: 1
+    projectileSettings: {fileID: 11400000, guid: 050af653779ba4147afad6eab02c8492, type: 2}
+  - shuffleBagSize: 2
+    projectileSettings: {fileID: 11400000, guid: 954894bd79df8db4baeec4fd733c3116, type: 2}
+  - shuffleBagSize: 2
+    projectileSettings: {fileID: 11400000, guid: 18ddb4893f842f548a004d4e547e9bb9, type: 2}
+  - shuffleBagSize: 1
+    projectileSettings: {fileID: 11400000, guid: 84eb66d91d7496e4d96924dd170a4fea, type: 2}
+  - shuffleBagSize: 1
+    projectileSettings: {fileID: 11400000, guid: 203c4fc1f135aa744bbb0c81c564a9a3, type: 2}
+  - shuffleBagSize: 1
+    projectileSettings: {fileID: 11400000, guid: 44f8482f3b70cc34b8bf2838e96276ac, type: 2}
