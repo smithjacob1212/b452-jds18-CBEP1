@@ -1,0 +1,1 @@
+These contain all of the Unity Assets used to make the game, including the sprites, C# scripts, and scene/object attributes.
