@@ -1,1 +1,0 @@
-By opening the windowsBuild folder and selecting the file GlobalGameJam2022, you can play our game.
